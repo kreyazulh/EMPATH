@@ -6,7 +6,7 @@ Welcome to the official GitHub repository for EMPATH, a cutting-edge framework d
 
 EMPATH is designed to address the challenges in accurately recognizing isolated sign language by leveraging a synergistic approach that combines advanced machine learning techniques. It showcases exceptional performance across various datasets, including BdSL-40, BDSign-Word, INCLUDE, WLASL, and MSL Medical Dataset demonstrating its adaptability to diverse linguistic contexts. Furthermore, EMPATH employs a specialized regression model to effectively handle missing keypoints, showcasing its robust capabilities and identifying areas for enhancement.
 
-![EMPATH Framework Overview](graphics/MediaPipe Holistic.png)
+![EMPATH Framework Overview](https://github.com/kreyazulh/EMPATH/blob/main/graphics/MediaPipe%20Holistic.png)
 
 ## Key Features
 
