@@ -1,4 +1,4 @@
-# Predicting Missing Keypoints in Sign Language Tasks
+# Predicting Missing Hand Keypoints in Sign Language Tasks
 
 ## Key Features
 
