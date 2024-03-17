@@ -7,6 +7,18 @@
 - **Memory Management:** Utilizing a garbage collector-like strategy to manage memory, releasing and writing missing values at designated intervals.
 - **Optimized Inference:** Optimizing the algorithm to run only once for each frame, minimizing additional computation costs in terms of inference time.
 
+
+   <p align="center">
+  <img src="https://github.com/kreyazulh/EMPATH/assets/87698516/6e10dff9-aacb-4458-9865-4a27f8e72501" alt="Before" style="width:45%;" />
+  <img src="https://github.com/kreyazulh/EMPATH/assets/87698516/b002bfad-fb31-40f1-9217-3c9fbd5b2a1e" alt="After" style="width:45%;" />
+</p>
+
+<p align="center">Before and after running the model (reference video frame WLASL)</p>
+
+
+
+
+
 ## Dependencies
 
 Ensure you have the required dependencies installed. You can install them using:
