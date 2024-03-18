@@ -13,7 +13,7 @@
   <img src="https://github.com/kreyazulh/EMPATH/assets/87698516/b002bfad-fb31-40f1-9217-3c9fbd5b2a1e" alt="After" style="width:45%;" />
 </p>
 
-<p align="center">Before and after running the model (reference video frame WLASL)</p>
+<p align="center">Before and after (reference video frame WLASL)</p>
 
 
 
