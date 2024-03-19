@@ -17,4 +17,7 @@ EMPATH is designed to address the challenges in accurately recognizing isolated 
 - **Extensive Dataset Evaluation:** Rigorously trained, tested, and validated across multiple datasets to highlight EMPATH's strengths and areas for improvement.
 - **Adaptability to Diverse Linguistic Contexts:** Demonstrated success in recognizing a broad range of sign languages, with a focus on Bangla Word-Level Sign Language.
 
+https://github.com/kreyazulh/EMPATH/assets/87698516/0e2a268d-7704-4123-b13e-c3f3a66a4eaf
+
+
 
