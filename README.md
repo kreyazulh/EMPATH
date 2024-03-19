@@ -28,5 +28,16 @@ These resources are intended to provide a quick start for working with these dat
 
 https://github.com/kreyazulh/EMPATH/assets/87698516/0e2a268d-7704-4123-b13e-c3f3a66a4eaf
 
+## Dataset Links
+
+For convenience, we have provided the dataset sources utilized in our EMPATH experiments. These datasets include BdSL-40, SignBD-Word, INCLUDE, WLASL, and the MSL Medical Dataset.
+
+- **BdSL-40 Dataset**: [Download BdSL-40](https://github.com/Patchwork53/BdSL40_Dataset_AI_for_Bangla_2.0_Honorable_Mention/tree/main)
+- **SignBD-Word Dataset**: [Download SignBD-Word](https://doi.org/10.5281/zenodo.6779843)
+- **INCLUDE Dataset**: [Download INCLUDE](https://zenodo.org/records/4010759)
+- **WLASL Dataset**: [Download WLASL](https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed)
+- **MSL Medical Dataset**: [Download MSL Medical](https://www.kaggle.com/datasets/arkuuu21/msl-medical)
+
+
 
 
