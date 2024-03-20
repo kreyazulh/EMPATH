@@ -37,7 +37,19 @@ For convenience, we have provided the dataset sources utilized in our EMPATH exp
 - **INCLUDE Dataset**: [Download INCLUDE](https://zenodo.org/records/4010759)
 - **WLASL Dataset**: [Download WLASL](https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed)
 - **MSL Medical Dataset**: [Download MSL Medical](https://www.kaggle.com/datasets/arkuuu21/msl-medical)
+## Running the Code
 
+### Python Scripts
+
+All Python `.py` files in this repository are designed to be straightforward to execute. To run any script, simply use the following command in your terminal:
+
+```bash
+python3 <file.py>
+```
+
+### Notebooks
+
+Notebooks can be run in any environment like jupyter notebook, kaggle, collab or local machine IDEs as preference.
 
 
 
