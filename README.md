@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for EMPATH, a cutting-edge framework d
 
 ## Overview
 
-EMPATH is designed to address the challenges in accurately recognizing isolated sign language by leveraging a synergistic approach that combines advanced machine learning techniques. It showcases exceptional performance across various datasets, including BdSL-40, BDSign-Word, INCLUDE, WLASL, and MSL Medical Dataset demonstrating its adaptability to diverse linguistic contexts. Furthermore, EMPATH employs a specialized regression model to effectively handle missing keypoints, showcasing its robust capabilities and identifying areas for enhancement.
+EMPATH is designed to address the challenges in accurately recognizing isolated sign language by leveraging a synergistic approach that combines advanced machine learning techniques. It showcases exceptional performance across various datasets, including BdSL-40, BDSign-Word, INCLUDE, WLASL, and MSL Medical Dataset demonstrating its adaptability to diverse linguistic contexts. Furthermore, EMPATH employs a specialized interpolation model to effectively handle missing keypoints, showcasing its robust capabilities and identifying areas for enhancement.
 
 ![MediaPipe Holistic](https://github.com/kreyazulh/EMPATH/assets/87698516/3153b5f4-560b-4269-80f2-7b3fafa37dcf)
 
@@ -13,7 +13,7 @@ EMPATH is designed to address the challenges in accurately recognizing isolated 
 
 - **MediaPipe Holistic Integration:** Utilizes advanced landmark extraction techniques for optimal detection and tracking, with configurable parameters to balance performance and inference time.
 - **Ensemble Learning with Transformers:** Employs an ensemble of Transformer models to enhance prediction accuracy and reliability.
-- **Regression Model for Missing Keypoints:** A specialized approach to address the challenge of missing data in sign language video frames, ensuring comprehensive analysis.
+- **Interpolation Model for Missing Keypoints:** A specialized approach to address the challenge of missing data in sign language video frames, ensuring comprehensive analysis.
 - **Extensive Dataset Evaluation:** Rigorously trained, tested, and validated across multiple datasets to highlight EMPATH's strengths and areas for improvement.
 - **Adaptability to Diverse Linguistic Contexts:** Demonstrated success in recognizing a broad range of sign languages, with a focus on Bangla Word-Level Sign Language.
 
