@@ -2,7 +2,7 @@
 
 ## Key Features
 
-- **Linear Regression Model:** Implementing a regression-based algorithm to address missing hand landmarks.
+- **Linear Interpolation Model:** Implementing a regression-based algorithm to address missing hand landmarks.
 - **Wrist Keypoint Alignment:** Aligning hand wrist keypoints with pose wrist keypoints to rectify inconsistencies between arm and hand positions.
 - **Memory Management:** Utilizing a garbage collector-like strategy to manage memory, releasing and writing missing values at designated intervals.
 - **Optimized Inference:** Optimizing the algorithm to run only once for each frame, minimizing additional computation costs in terms of inference time.
