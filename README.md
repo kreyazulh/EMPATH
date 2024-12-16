@@ -51,5 +51,25 @@ python3 <file.py>
 
 Notebooks can be run in any environment like jupyter notebook, kaggle, collab or local machine IDEs as preference.
 
+## References
+
+If you find this work helpful, please consider citing the following publications:
+
+- @inproceedings{hasan2025empath,
+  title={EMPATH: MediaPipe-Aided Ensemble Learning with Attention-Based Transformers for Accurate Recognition of Bangla Word-Level Sign Language},
+  author={Hasan, Kazi Reyazul and Adnan, Muhammad Abdullah},
+  booktitle={International Conference on Pattern Recognition},
+  pages={355--371},
+  year={2025},
+  organization={Springer}
+}
+
+
+- @article{hasanimplementation,
+  title={Implementation and Reproducibility Notes on EMPATH: Enhancing Word-Level Sign Language Recognition},
+  author={Hasan, Kazi Reyazul and Abdullah, Muhammad}
+}
+
+
 
 
